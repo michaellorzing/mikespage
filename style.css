@@ -1,0 +1,95 @@
+html {
+  background-color: darkslategray;
+}
+
+html {
+  background-image: url("folk-pattern-black.png");
+}
+
+body {
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2  {
+  border-top: 1px;
+  border-bottom: 1px;
+  background-color:sienna;
+  border-style: solid;
+  border-color:grey;
+  border-radius: 5px;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: darkgray;
+}
+
+.format {
+  text-align: center;
+  margin: 0 auto;
+  width: 33%;
+  background-image: url("folk-pattern-black.png")
+}
+
+
+
+#purpBack {
+  border-top: 1px;
+  border-bottom: 1px;
+  border-style: solid;
+  border-color:grey;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0;
+  font-size: 40px;
+}
+
+#mission {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: left;
+  background-color: peru;
+  border-style: solid;
+  border-color:grey;
+  border-radius: 10px
+  display: block;
+  width: 40%;
+  float: left;
+  margin: 30px;
+}
+
+#bio {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: left;
+  background-color: peru;
+  border-style: solid;
+  border-color:grey;
+  border-radius: 10px
+  display: block;
+  width: 33%;
+  float: right;
+  margin: 20px;
+}
